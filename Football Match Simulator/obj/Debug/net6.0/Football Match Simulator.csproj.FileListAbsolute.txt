@@ -1,0 +1,15 @@
+C:\Users\OMR\source\repos\Football Match Simulator\bin\Debug\net6.0\Football Match Simulator.exe
+C:\Users\OMR\source\repos\Football Match Simulator\bin\Debug\net6.0\Football Match Simulator.deps.json
+C:\Users\OMR\source\repos\Football Match Simulator\bin\Debug\net6.0\Football Match Simulator.runtimeconfig.json
+C:\Users\OMR\source\repos\Football Match Simulator\bin\Debug\net6.0\Football Match Simulator.dll
+C:\Users\OMR\source\repos\Football Match Simulator\bin\Debug\net6.0\Football Match Simulator.pdb
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.csproj.AssemblyReference.cache
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.AssemblyInfoInputs.cache
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.AssemblyInfo.cs
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.csproj.CoreCompileInputs.cache
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.dll
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\refint\Football Match Simulator.dll
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.pdb
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\Football Match Simulator.genruntimeconfig.cache
+C:\Users\OMR\source\repos\Football Match Simulator\obj\Debug\net6.0\ref\Football Match Simulator.dll
