@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "R1LGTSDZH4BhHvCG7mvMa6tVUZ/STltQsNGD9wjR7/4=",
+  "Source": "microtech-task-final",
+  "BasePath": "_content/microtech-task-final",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "microtech-task-final\\wwwroot",
+      "Source": "microtech-task-final",
+      "ContentRoot": "C:\\Users\\OMR\\source\\repos\\microtech-task-final\\wwwroot\\",
+      "BasePath": "_content/microtech-task-final",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
